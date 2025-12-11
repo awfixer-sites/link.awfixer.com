@@ -1,22 +1,17 @@
 [
   {
-    "source": "/old-blog",
-    "destination": "/blog",
+    "source": "/terms",
+    "destination": "https://help.awfixer.com/legal/statements/terms-of-service",
     "permanent": true
   },
   {
-    "source": "/old-about",
-    "destination": "/about",
-    "permanent": false
+    "source": "/privacy",
+    "destination": "https://help.awfixer.com/legal/statements/privacy-policy",
+    "permanent": true
   },
   {
-    "source": "/legacy-contact",
-    "destination": "https://example.com/contact",
-    "statusCode": 301
-  },
-  {
-    "source": "/profile",
-    "destination": "/dashboard",
-    "statusCode": 302
+    "source": "/contact",
+    "destination": "https://help.awfixer.com/pressroom/contact-types",
+    "permanent": true
   }
 ]
