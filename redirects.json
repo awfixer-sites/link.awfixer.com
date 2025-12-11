@@ -1,0 +1,22 @@
+[
+  {
+    "source": "/old-blog",
+    "destination": "/blog",
+    "permanent": true
+  },
+  {
+    "source": "/old-about",
+    "destination": "/about",
+    "permanent": false
+  },
+  {
+    "source": "/legacy-contact",
+    "destination": "https://example.com/contact",
+    "statusCode": 301
+  },
+  {
+    "source": "/profile",
+    "destination": "/dashboard",
+    "statusCode": 302
+  }
+]
