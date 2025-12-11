@@ -18,5 +18,25 @@
     "source": "/discord",
     "destination": "https://discord.awfixer.com",
     "permanent": true
+  },
+  {
+    "source": "/reddit",
+    "destination": "https://reddit.com/r/awfixerandfriends",
+    "permanent": true
+  },
+  {
+    "source": "/os",
+    "destination": "https://os.awfixer.com",
+    "permanent": true
+  },
+  {
+    "source": "/awfixeros",
+    "destination": "https://os.awfixer.com",
+    "permanent": true
+  },
+  {
+    "source": "/modded-android",
+    "destination": "https://ma.awfixer.com",
+    "permanent": true
   }
 ]
