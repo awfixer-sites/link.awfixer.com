@@ -13,5 +13,10 @@
     "source": "/contact",
     "destination": "https://help.awfixer.com/pressroom/contact-types",
     "permanent": true
+  },
+  {
+    "source": "/discord",
+    "destination": "https://discord.awfixer.com",
+    "permanent": true
   }
 ]
