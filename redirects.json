@@ -1,12 +1,12 @@
 [
   {
     "source": "/terms",
-    "destination": "https://help.awfixer.com/legal/statements/terms-of-service",
+    "destination": "https://help.awfixer.com/tos",
     "permanent": true
   },
   {
     "source": "/privacy",
-    "destination": "https://help.awfixer.com/legal/statements/privacy-policy",
+    "destination": "https://help.awfixer.com/privacy",
     "permanent": true
   },
   {
@@ -37,6 +37,21 @@
   {
     "source": "/modded-android",
     "destination": "https://ma.awfixer.com",
+    "permanent": true
+  },
+  {
+    "source": "/devos",
+    "destination": "https://devos.awfixer.com",
+    "permanent": true
+  },
+  {
+    "source": "/browse",
+    "destination": "https://browse.awfixer.com",
+    "permanent": true
+  },
+  {
+    "source": "/source",
+    "destination": "https://github.com/awfixer-sites/link.awfixer.com",
     "permanent": true
   }
 ]
