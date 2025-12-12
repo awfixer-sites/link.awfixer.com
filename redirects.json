@@ -40,6 +40,11 @@
     "permanent": true
   },
   {
+    "source": "/ma",
+    "destination": "https://ma.awfixer.com",
+    "permanent": true
+  },
+  {
     "source": "/devos",
     "destination": "https://devos.awfixer.com",
     "permanent": true
@@ -50,8 +55,28 @@
     "permanent": true
   },
   {
+    "source": "/games",
+    "destination": "https://games.awfixer.com",
+    "permanent": true
+  },
+  {
     "source": "/source",
     "destination": "https://github.com/awfixer-sites/link.awfixer.com",
     "permanent": true
+  },
+  {
+    "source": "/support",
+    "destination": "https://donorbox.org/awfixer-and-friends-memberships",
+    "permanent": true
+  },
+  {
+    "source": "/subprocessors",
+    "destination": "https://help.awfixer.com/legal/statements/subprocessors",
+    "permanent": true
+  },
+  {
+    "source": "/(.*)",
+    "destination": "/home",
+    "permanent": false
   }
 ]
